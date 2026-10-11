@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f7f4ee"/>
+  <rect x="70" y="80" width="660" height="720" rx="28" fill="#1f7a4d"/>
+  <circle cx="400" cy="390" r="120" fill="#fffcf8" opacity="0.9"/>
+  <text x="80" y="880" fill="#24211c" font-family="Georgia, serif" font-size="42">Relaxed Denim Jean</text>
+  <text x="80" y="930" fill="#5e5a52" font-family="Segoe UI, sans-serif" font-size="22">ACME Retail</text>
+</svg>
